@@ -7,7 +7,7 @@ Version 0.10 – Feedback Welcome<br>
 ## Our Common Enemy
 
 > “All suffering is caused by ignorance.”
-> - Buddha
+> Buddha
 
 **What if you had access to the combined intellectual powers of all mankind?** It would be easier
 for you to make decisions. You’d know what school to attend (if any), where to live, where to work,
