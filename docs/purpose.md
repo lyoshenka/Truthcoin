@@ -1,8 +1,8 @@
 # A Brighter Future
 
-Paul Sztorc
-truthcoin@gmail.com
-Version 0.10 – Feedback Welcome
+Paul Sztorc<br>
+truthcoin@gmail.com<br>
+Version 0.10 – Feedback Welcome<br>
 
 ## Our Common Enemy
 
