@@ -93,7 +93,7 @@ You may be less-able to do this in the world of PMs. Leading PM-scholar Robin Ha
 previously privileged information across the company and change perceptions of what is knowable and
 who knows what.”
 
-![Figure 1](http://placehold.it/400x100&text=Dilbert+comic)
+![Figure 1](http://placehold.it/500x200&text=Dilbert+comic)
 
 Figure 1. These experts are forecasting a successful merger.
 
@@ -220,7 +220,7 @@ social psychology reveals that man can be very hypocritical. Evolution produced 
 survive-first, think-later, and to behave and talk accordingly. Optical illusions, for example, help our eyes
 quickly process information that is nonetheless incorrect.
 
-![Figure 2](http://placehold.it/400x100&text=Picture+of+arrows)
+![Figure 2](http://placehold.it/500x200&text=Illusion)
 
 Figure 2. A classic optical illusion. Surprisingly, both horizontals are the same length. More
 importantly, even after you verify this equality, you will continue to perceive the figure “wrongly”.
